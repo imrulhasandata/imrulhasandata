@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Md. Imrul Hasan"
   avatar           : "profile.png"
-  bio              : "Database Administrator, Manager<br>ASA Bangladesh"
+  bio              : "Database Administrator, Manager"
   location         : "Dhaka, Bangladesh"
   employer         : "ASA Bangladesh"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://en.wikipedia.org/wiki/Md._Imrul_Hasan"
 
 
 # Reading Files
