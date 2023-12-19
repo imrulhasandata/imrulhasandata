@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Md. Imrul Hasan"
 title_separator          : "-"
 name                     : &name "Md. Imrul Hasan"
-description              : &description "personal description"
+description              : &description "Database Administrator, Manager<br>ASA Bangladesh"
 url                      : https://imrulhasandata.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imrulhasandata/imrulhasandata.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Md. Imrul Hasan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Database Administrator, Manager<br>ASA Bangladesh"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "imrulhasan273"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "ih273"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
