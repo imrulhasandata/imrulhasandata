@@ -85,7 +85,7 @@ author:
   bio              : "Data Engineering & Analytics"
   location         : "Dhaka, Bangladesh"
   employer         : # "ASA Bangladesh"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bzAdidgAAAAJ&hl=en&oi=ao"
   email            : "imrulhasan.data@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Md-Imrul-Hasan"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ih273"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : "10106576/backstreet-imrul"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
