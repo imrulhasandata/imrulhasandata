@@ -79,3 +79,50 @@ $mastodon-color  : #6364ff;
  gem install jekyll
  bundle exec jekyll server
 
+
+
+-------
+
+** `_data/navigation.yml` **
+
+```yml 
+  - title: "Experience"
+    url: /experience/
+```
+
+** `_config.yml` **
+
+```yml 
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+```
+
+** Create `experience.md` or `experience.html` file inside `_pages` folder** 
+
+
+** Create `_experience` folder in root then create posts inside it**
+
+
+** To View posts add logic to those html templates**
+
+** Joined using `collection` >> `_includes/archive-single.html` **
+
+```html
+{% if post.collection == 'teaching' %}
+  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.collection == 'publications' %}
+  <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.collection == 'experience' %}
+  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.date %}
+  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+{% endif %}
+```
+
+
