@@ -86,9 +86,9 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         : # "ASA Bangladesh"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=bzAdidgAAAAJ&hl=en&oi=ao"
+  googlescholar    : "bzAdidgAAAAJ&hl=en&oi=ao"
   email            : "imrulhasan.data@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Md-Imrul-Hasan"
+  researchgate     : "Md-Imrul-Hasan"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ih273"
-  orcid            : "http://orcid.org/0009-0005-4422-0739"
+  orcid            : "0009-0005-4422-0739"
   pinterest        :
   soundcloud       :
   stackoverflow    : "10106576/backstreet-imrul"
@@ -310,6 +310,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
 
 
 
