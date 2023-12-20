@@ -75,5 +75,6 @@ $mastodon-color  : #6364ff;
 ---
 
 
-
-
+ bundle install
+ gem install jekyll
+ bundle exec jekyll server
