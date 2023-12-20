@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+author_profile: true
 permalink: /experience/
 ---
 
