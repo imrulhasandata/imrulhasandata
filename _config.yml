@@ -248,7 +248,7 @@ defaults:
   # _experience
   - scope:
       path: ""
-      type: _experience
+      type: experience
     values:
       layout: talk
       author_profile: true
