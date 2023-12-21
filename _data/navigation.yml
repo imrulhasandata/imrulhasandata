@@ -16,7 +16,8 @@ main:
     url: /talks/    
 
   - title: "Tech Insights"
-    url: /year-archive/
+    url: /tech-insights/
+    # url: /year-archive/
     
 #  =================== DRAFT ===================
 
