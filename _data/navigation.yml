@@ -7,7 +7,7 @@ main:
     url: /portfolio/
 
   - title: "Expertise"
-    url: /expertise/
+    url: /expertise/  
         
   - title: "Education"
     url: /education/
