@@ -93,6 +93,16 @@ $mastodon-color  : #6364ff;
 ** `_config.yml` **
 
 ```yml 
+collections:
+  ....
+  ....
+  experience:
+    output: true
+    permalink: /:collection/:path/
+
+    
+# Defaults
+defaults:
   # _experience
   - scope:
       path: ""
@@ -101,6 +111,7 @@ $mastodon-color  : #6364ff;
       layout: talk
       author_profile: true
       share: true
+
 ```
 
 ** Create `experience.md` or `experience.html` file inside `_pages` folder** 
