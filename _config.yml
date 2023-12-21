@@ -197,9 +197,8 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
-  expertise:
-    output: true
-    permalink: /:collection/:path/
+
+
 
 # Defaults
 defaults:
@@ -276,15 +275,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expertise
-  - scope:
-      path: ""
-      type: expertise
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass

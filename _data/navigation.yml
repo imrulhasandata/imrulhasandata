@@ -6,9 +6,6 @@ main:
   - title: "Career Highlights"
     url: /portfolio/
 
-  - title: "Expertise"
-    url: /expertise/ 
-        
   - title: "Education"
     url: /education/
 
