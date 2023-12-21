@@ -194,9 +194,6 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
-  techinsights:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -271,19 +268,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _techinsights
-  - scope:
-      path: ""
-      type: techinsights
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 
-      
 # Sass/SCSS
 sass:
   sass_dir: _sass
