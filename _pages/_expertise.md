@@ -1,6 +1,6 @@
 ---
 title: "Expertise"
-permalink: /expertise/
+permalink: /markdown/
 author_profile: true
 redirect_from: 
   - /md/
