@@ -145,6 +145,19 @@ portfolio.html
 research.html
 
 
+header
+=====
+Home
+1. Experience           [DONE]
+2. Career Highlights    [DONE]
+3. Expertise            [DONE]
+4. Education            [DONE]
+5. Research             [DONE]
+6. Talks                [DONE]
+7. Recognitions
+8. Tech Insights        [DONE]
+
+
 
 
 
