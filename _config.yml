@@ -281,11 +281,10 @@ defaults:
       path: ""
       type: expertise
     values:
-      # layout: single
+      layout: single
       author_profile: true
-      # share: true
-      # comments: true
-
+      share: true
+      comments: true
 # Sass/SCSS
 sass:
   sass_dir: _sass

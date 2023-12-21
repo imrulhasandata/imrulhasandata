@@ -1,11 +1,14 @@
 ---
+layout: archive
 title: "Expertise"
-permalink: /markdown/
+permalink: /expertise/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-### Hello World
+{% include base_path %}
+
+
+{% for post in site.expertise reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
