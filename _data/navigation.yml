@@ -7,13 +7,16 @@ main:
     url: /career-highlights/
 
   - title: "Expertise"
-    url: /markdown/
+    url: /expertise/
 
   - title: "Education"
     url: /education/
 
   - title: "Research"
     url: /research/
+
+  - title: "Recognitions"
+    url: /recognitions/
   
   - title: "Talks"
     url: /talks/
@@ -30,8 +33,6 @@ main:
   # - title: "CV"
   #   url: /cv/
 
-  - title: "Recognitions"
-    url: /recognitions/
 
 
 
