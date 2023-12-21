@@ -185,7 +185,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  career_highlights:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
