@@ -16,7 +16,7 @@ main:
     url: /research/
   
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Tech Insights"
     url: /tech-insights/
@@ -29,6 +29,9 @@ main:
 
   # - title: "CV"
   #   url: /cv/
+
+  - title: "Recognitions"
+    url: /recognitions/
 
 
 
