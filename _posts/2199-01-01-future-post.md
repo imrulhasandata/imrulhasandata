@@ -11,6 +11,8 @@ xcerpt_separator: <!--more-->
 always_allow_html: true
 ---
 
+{% include toc %}
+
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
 {:toc}
