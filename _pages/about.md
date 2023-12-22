@@ -10,7 +10,9 @@ redirect_from:
   - /about.html
 ---
 
+<p style = "font-size: 05px;">
 Welcome to my corner of the web! I'm Md. Imrul Hasan, a seasoned professional with a multifaceted expertise spanning Data Engineering, Data Analytics, Business Intelligence, and Database Administration. I thrive on transforming raw data into actionable insights, employing diverse statistical methods to unveil trends and patterns that drive informed decisions.
+</p>
 
 Professional Highlights
 ===
@@ -19,29 +21,9 @@ Achievements & Responsibilities
 Throughout my career, I've spearheaded impactful initiatives, including:
 
 **Data Analysis & Visualization:**
-<ul>
-  <li><span style="color: red;">Data Analysis & Visualization:</span></li>
-  <ul>
-    <li>Analyzed complex datasets to uncover trends and patterns.</li>
-    <li>Designed and presented over 15 dashboards and 150+ charts for data-driven decision-making.</li>
-    <li>Implemented Customer Journey Management techniques to enhance the overall customer experience.</li>
-  </ul>
-  <!-- Add color to another section -->
-  <li><span style="color: orange;">Financial Expertise:</span></li>
-  <ul>
-    <li>Led various financial projects, including TCSA and Bangladesh Bank Audit processes.</li>
-    <li>Executed reconciliation, RIT Report, Income Report, and Yearly Bank Closing processes.</li>
-    <li>Contributed to Mobile Financial Services (MFS) and collaborated on projects with international entities like the International Monetary Fund (IMF).</li>
-  </ul>
-  <!-- Add color to another section -->
-  <li><span style="color: purple;">Project Management & Automation:</span></li>
-  <ul>
-    <li>Successfully managed and contributed to projects such as Padma Multipurpose Bridge, PESP, BSFIC, SWD, and Super QR.</li>
-    <li>Implemented automation using Python and Google APIs for enhanced efficiency.</li>
-    <li>Developed algorithms to ensure better decision quality.</li>
-  </ul>
-</ul>
-
+- Analyzed complex datasets to uncover trends and patterns.
+- Designed and presented over 15 dashboards and 150+ charts for data-driven decision-making.
+- Implemented Customer Journey Management techniques to enhance the overall customer experience.
 
 **Financial Expertise:**
 - Led various financial projects, including TCSA and Bangladesh Bank Audit processes.
