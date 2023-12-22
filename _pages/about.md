@@ -3,12 +3,15 @@ permalink: /
 title: "Unveiling My Career Story"
 excerpt: "About me"
 author_profile: true
+excerpt_separator: <!--more-->
+always_allow_html: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my corner of the web! I'm Md. Imrul Hasan, a seasoned professional with a multifaceted expertise spanning Data Engineering, Data Analytics, Business Intelligence, and Database Administration. I thrive on transforming raw data into actionable insights, employing diverse statistical methods to unveil trends and patterns that drive informed decisions.
+<p>Welcome to my corner of the web! I'm Md. Imrul Hasan, a seasoned professional with a multifaceted expertise spanning Data Engineering, Data Analytics, Business Intelligence, and Database Administration. I thrive on transforming raw data into actionable insights, employing diverse statistical methods to unveil trends and patterns that drive informed decisions.
+</p>
 
 Professional Highlights
 ===
