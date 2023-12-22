@@ -7,7 +7,7 @@ tags:
   - cool posts
   - category1
   - category2
-xcerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 always_allow_html: true
 ---
 
