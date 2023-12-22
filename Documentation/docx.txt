@@ -168,5 +168,7 @@ Site-wide configuration
 
 **Markdown generator**
 
+nav__title
+
 
 
