@@ -160,6 +160,13 @@ Home
 
 
 
+Getting started
+======
+
+Site-wide configuration
+------
+
+**Markdown generator**
 
 
 
