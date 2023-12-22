@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Md. Imrul Hasan - Home"
-excerpt: "About me"
+excerpt: "Unveiling My Career Story"
 author_profile: true
 redirect_from: 
   - /about/
