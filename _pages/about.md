@@ -10,7 +10,9 @@ redirect_from:
   - /about.html
 ---
 
+<div style = "text-align: justify;">
 Welcome to my corner of the web! I'm Md. Imrul Hasan, a seasoned professional with a multifaceted expertise spanning Data Engineering, Data Analytics, Business Intelligence, and Database Administration. I thrive on transforming raw data into actionable insights, employing diverse statistical methods to unveil trends and patterns that drive informed decisions.
+</div>
 
 Professional Highlights
 ===
