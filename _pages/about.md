@@ -15,14 +15,17 @@ Professional Highlights
 Achievements & Responsibilities
 ---
 Throughout my career, I've spearheaded impactful initiatives, including:
+
 **Data Analysis & Visualization:**
 - Analyzed complex datasets to uncover trends and patterns.
 - Designed and presented over 15 dashboards and 150+ charts for data-driven decision-making.
 - Implemented Customer Journey Management techniques to enhance the overall customer experience.
+
 **Financial Expertise:**
 - Led various financial projects, including TCSA and Bangladesh Bank Audit processes.
 - Executed reconciliation, RIT Report, Income Report, and Yearly Bank Closing processes.
 - Contributed to Mobile Financial Services (MFS) and collaborated on projects with international entities like the International Monetary Fund (IMF).
+
 **Project Management & Automation:**
 - Successfully managed and contributed to projects such as Padma Multipurpose Bridge, PESP, BSFIC, SWD, and Super QR.
 - Implemented automation using Python and Google APIs for enhanced efficiency.
@@ -31,13 +34,16 @@ Throughout my career, I've spearheaded impactful initiatives, including:
 Technical Proficiency
 ---
 My technical toolkit includes:
+
 **Database Management:**
 - Extensive experience with PostgreSQL, SQL Server, MySQL.
 - Established a Unified Data Analytics Platform (UDAP) and optimized database performance through techniques like Table - Partitioning, Sharding, and Indexing.
 - Orchestrated the migration of a substantial 10TB dataset to AWS RDS.
+
 **Security Measures:**
 - Implemented robust security measures, including Role-Based Access Control (RBAC) and Column Level Security (CLS) systems.
 - Developed a Database Audit System leveraging Triggers to ensure data security.
+
 **Data Visualization:**
 - Proficient in tools like Looker Studio, Power BI, Apache Superset, and Django for crafting compelling data visualizations.
 
