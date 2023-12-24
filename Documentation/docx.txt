@@ -189,6 +189,8 @@ tags:
   - data-science
   - visualization
 
+{% if page.collection == 'experience' and page.collection == 'education' %}
+
 
 
 
