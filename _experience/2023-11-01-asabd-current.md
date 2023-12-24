@@ -10,7 +10,7 @@ location: "ASA Tower, Dhaka, Bangladesh"
 
 I am working as a Database Administrator
 
-**Tenure:** "01 Nov 2023 - Present"
+**Tenure:** `01 Nov 2023 - Present`
 
 **Grade:** 8th
 
