@@ -7,9 +7,9 @@ redirect_from:
   - /certifications.html
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-<!-- {% include custom_css %} -->
+{% include custom_css %}
 
 ---
 
