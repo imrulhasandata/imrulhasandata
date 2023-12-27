@@ -45,7 +45,7 @@ ul {
 .at {
     font-weight: bold;
     font-size: 16px; 
-    color: #CCCCCC ;
+    color: #CCCCCC !important;
     padding: 0 !important;
     margin: 0 !important;
 }
@@ -57,10 +57,5 @@ ul {
     font-style: italic;
 }
 
-.org img {
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 5px;
-}
 
 
