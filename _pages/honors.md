@@ -1,10 +1,10 @@
 ---
-permalink: /recognitions/
-title: "Recognitions"
+permalink: /honors/
+title: "Ronors"
 author_profile: true
 redirect_from: 
   - /md/
-  - /recognitions.html
+  - /honors.html
 ---
 
 ## Locations of key files/directories
