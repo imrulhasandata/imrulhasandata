@@ -17,6 +17,9 @@ redirect_from:
 <strong class="at">@</strong>
 <strong class="org">NACTAR</strong>
 <img src="{{ base_path }}/assets/icons/nactar.svg" alt="NACTAR" height="10">
+<div class="first">
+<b>Resource Person:</b> Prof. Dr. Md. Rabiul Islam
+</div>
 
 ---
 
