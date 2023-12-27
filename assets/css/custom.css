@@ -57,4 +57,10 @@ ul {
     font-style: italic;
 }
 
+.org img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
 
