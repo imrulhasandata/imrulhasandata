@@ -15,10 +15,9 @@ redirect_from:
 
 ---
 
-<strong class="header_section">Machine Learning and Data Science</strong> <br />
-<strong class="section">Organization: </strong>
+<strong class="header_section">Machine Learning and Data Science</strong> @ 
 <img src="{{ base_path }}/assets/icons/nactar.svg" alt="TallyKhata" height="20">
-National Academy for Computer Training and Research (NACTAR)
+<strong class="section">NACTAR</strong>
 
 ---
 
