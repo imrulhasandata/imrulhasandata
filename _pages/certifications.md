@@ -13,11 +13,15 @@ redirect_from:
   <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css"/>
 </head>
 
-<strong class="header_section">Machine Learning and Data Science Training</strong> <br />
-<img src="{{ base_path }}/assets/icons/nactar.svg" alt="TallyKhata" height="20">
-<strong class="section">National Academy for Computer Training and Research (NACTAR)</strong>
+---
 
+<strong class="header_section">Machine Learning and Data Science</strong> <br />
+<strong class="section">Organization: </strong>
+<img src="{{ base_path }}/assets/icons/nactar.svg" alt="TallyKhata" height="20">
+National Academy for Computer Training and Research (NACTAR)
+
+---
 
 <strong class="header_section">Database Training on SQL/PL-SQL</strong> <br />
 
-
+---
