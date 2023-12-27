@@ -59,8 +59,15 @@ ul {
     margin: 0 !important;
 }
 
-.first {
+.first_k {
     font-weight: bold;
+    font-size: 14px; 
+    /* color: #1a1a4f; */
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.first_v {
+    /* font-weight: bold; */
     font-size: 14px; 
     /* color: #1a1a4f; */
     padding: 0 !important;
