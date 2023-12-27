@@ -50,4 +50,11 @@ ul {
     margin: 0 !important;
 }
 
+.org {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 15px; 
+    font-style: italic;
+}
+
 
