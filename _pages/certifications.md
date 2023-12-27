@@ -17,7 +17,7 @@ redirect_from:
 
 <strong class="header_section">Machine Learning and Data Science</strong> 
 <strong class="at">@</strong>
-<strong class="org">NACTAR</strong>
+<p class="org">NACTAR</p>
 <img src="{{ base_path }}/assets/icons/nactar.svg" alt="NACTAR" height="5">
 
 ---
