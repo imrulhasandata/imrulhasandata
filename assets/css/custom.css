@@ -42,6 +42,12 @@ ul {
 
 /* CERTIFICATIONS */
 
-
+.at {
+    font-weight: bold;
+    font-size: 15px; 
+    color: #00d312;
+    padding: 0 !important;
+    margin: 0 !important;
+}
 
 
