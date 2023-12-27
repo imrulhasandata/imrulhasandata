@@ -20,6 +20,7 @@ redirect_from:
 <b class="section_key">Resource Person: </b><span class="section_value">Prof. Dr. Md. Rabiul Islam, Dept of CSE, RUET</span><br/>
 <b class="section_key">Batch: </b><span class="section_value">2<sup>nd</sup></span><br/>
 <b class="section_key">Module Count: </b><span class="section_value">13</span><br/>
+<b class="section_key">Duration: </b><span class="section_value">8 Months</span><br/>
 <b class="section_key">Organization: </b><span class="section_value">National Academy for Computer Training and Research (NACTAR)</span><br/>
 <b class="section_key">Address: </b><span class="section_value">Rajshahi, Bangladesh</span><br/>
 
@@ -30,6 +31,7 @@ redirect_from:
 <strong class="org">Progoti Systems Ltd.</strong>
 <img src="{{ base_path }}/assets/icons/psl.svg" alt="TallyKhata" height="0"><br/>
 <b class="section_key">Resource Person: </b><span class="section_value">Kazi Shamsul Arefin, AVP, Progoti Systems Ltd.</span><br/>
+<b class="section_key">Duration: </b><span class="section_value">40 Hours</span><br/>
 <b class="section_key">Organization: </b><span class="section_value">Progoti Systems Ltd.</span><br/>
 <b class="section_key">Address: </b><span class="section_value">Banani, Dhaka, Bangladesh</span><br/>
 
