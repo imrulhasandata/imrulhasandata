@@ -16,8 +16,8 @@ redirect_from:
 ---
 
 <strong class="header_section">Machine Learning and Data Science</strong> @ 
-<img src="{{ base_path }}/assets/icons/nactar.svg" alt="TallyKhata" height="20">
 <strong class="section">NACTAR</strong>
+<img src="{{ base_path }}/assets/icons/nactar.svg" alt="TallyKhata" height="10">
 
 ---
 
