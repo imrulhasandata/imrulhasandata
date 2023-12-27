@@ -28,7 +28,7 @@ redirect_from:
 <strong class="header_section">Database Training on SQL/PL-SQL</strong> 
 <strong class="at">@</strong>
 <strong class="org">Progoti Systems Ltd.</strong>
-<img src="{{ base_path }}/assets/icons/psl.svg" alt="TallyKhata" height="10">
+<img src="{{ base_path }}/assets/icons/psl.svg" alt="TallyKhata" height="0"><br/>
 <b class="section_key">Resource Person: </b><span class="section_value">Kazi Shamsul Arefin, AVP, Progoti Systems Ltd.</span><br/>
 <b class="section_key">Organization: </b><span class="section_value">Progoti Systems Ltd.</span><br/>
 <b class="section_key">Address: </b><span class="section_value">Banani, Dhaka, Bangladesh</span><br/>
