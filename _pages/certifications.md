@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<head>
-  <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css"/>
-</head>
+<!-- {% include custom_css %} -->
 
 ---
 
@@ -28,3 +26,4 @@ redirect_from:
 <img src="{{ base_path }}/assets/icons/psl.svg" alt="TallyKhata" height="10">
 
 ---
+
