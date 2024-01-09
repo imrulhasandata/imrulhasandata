@@ -3,8 +3,8 @@ main:
   - title: "Experience"
     url: /experience/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Expertise"
     url: /expertise/
@@ -12,20 +12,22 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
-  - title: "Honors"
-    url: /honors/
+  # - title: "Honors"
+  #   url: /honors/
   
   - title: "Certifications"
     url: /certifications/
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
-  - title: "Insights"
-    url: /tech-insights/
+  # - title: "Insights"
+  #   url: /tech-insights/
+
+  
     # url: /year-archive/
     
 #  =================== DRAFT ===================
